@@ -1,2 +1,2 @@
-# assistente-jur-dico
-Criado pelo APK Builder · GitHub: maikonadvogadomg-alt/app-Maikon@main
+# app-Maikon
+Criado pelo APK Builder · GitHub: maikonadvogadomg-alt/assistente-juridico-expo-2-android@main
